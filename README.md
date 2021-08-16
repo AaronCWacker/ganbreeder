@@ -1,3 +1,20 @@
+# Ganbreeder RURLPARK
+RURLPARK is an eight feature GAN Breeder Genomics Organization
+This turn key app is a proof of generative adversarial network concept with genomics AI showing that GAN's can solve any domain specific problem as long as it fits within the theory of Cognitive Architecture governing what the users are thinking while playing with the application.  This approach gamifies user interaction and allows labeling and speciation where species of assets are created.  Note the level or VR sophistication has to keep up with the the persistent AI space which in GANbreeder is the adjusted weight of feature genes that contribute to a transform on the visual 2D world.
+
+RURLPARK:
+1) Face - Easiest read out of expression including emotion.
+2) Body - Encapsulation of all organs, systems, the mind, and wearables as one body.
+3) Home - Both the location, capability, and function to serve as a base for daily living.  Can include any location you would stay at.
+4) Landscape - Areas you visit that hold biomes or networks of life between species.
+5) Sea, Space, and Spaceships - Frontiers between places.
+6) Cities - Interaction of work places, resource structures, homes, and individual bodies representing a biome cluster including neighborhoods.
+7) Artifacts - Any object we can find, wear, or trade.
+8) UI and Deployment mechanism to allow sharing and interactivity with no code applications and services.
+
+
+
+
 # Ganbreeder
 
 [Ganbreeder](https://ganbreeder.app) is a collaborative art tool for discovering images. Images are 'bred' by having children, mixing with other images and being shared via their URL. This is an experiment in using breeding + sharing as methods of exploring high complexity spaces. GAN's are simply the engine enabling this. Ganbreeder is very similar to, and named after, Picbreeder. It is also inspired by an earlier project of mine [Facebook Graffiti](http://www.joelsimon.net/facebook-graffiti.html) which demonstrated the creative capacity of crowds.Ganbreeder uses [these](https://tfhub.dev/deepmind/biggan-128/2) models.
