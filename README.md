@@ -1,6 +1,10 @@
 # Ganbreeder RURLPARK
 RURLPARK is an eight feature GAN Breeder Genomics Organization
-This turn key app is a proof of generative adversarial network concept with genomics AI showing that GAN's can solve any domain specific problem as long as it fits within the theory of Cognitive Architecture governing what the users are thinking while playing with the application.  This approach gamifies user interaction and allows labeling and speciation where species of assets are created.  Note the level or VR sophistication has to keep up with the the persistent AI space which in GANbreeder is the adjusted weight of feature genes that contribute to a transform on the visual 2D world.
+This turn key app is a generative adversarial network conceptual application with genomic AI features for GAN's to solve any domain specific example based problem that fits within theory of Cognitive Architecture governing what the users are thinking while playing with the application.
+
+This approach gamifies user interaction using labeling, selection and speciation where species of assets are created.  
+
+Level of sophistication keeps with the persistent AI space which in GANbreeder is the adjusted weight of feature genes which contribute to transform a visual 2D world.
 
 RURLPARK:
 1) Face - Easiest read out of expression including emotion.
